@@ -1,5 +1,4 @@
 # crimson-tide-archipelago
-a placeholder repo for a indie game
 
 The developer of Crimson Tide Archipelago, respects your privacy and is committed to protecting any personal information that you may provide while using our mobile application. This Privacy Policy outlines the types of personal information that may be collected and how it may be used.
 
